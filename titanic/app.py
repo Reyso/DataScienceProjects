@@ -3,7 +3,7 @@
 
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import joblib
 import time
 
@@ -12,7 +12,7 @@ import time
 model = joblib.load('clf-best.pickle')
 
 # Carregando dataset
-data = pd.read_csv("test.csv")
+data = pd.read_csv("train.csv")
 
 
 
