@@ -6,5 +6,5 @@ A partir dos dados coletados, busquei trabalhar em uma abordagem simples frente 
 
 No entanto, no compromisso de dar um passo além, desenvolvi uma aplicação web utilizando o [Sreamlit](https://streamlit.io/) para consultar o modelo e prover predições ao usuário.
 
-![app]
+Preview da aplicação em execução
 ![titanic_app](https://github.com/Reyso/DataScienceProjects/blob/main/titanic/titanic_app.png)
