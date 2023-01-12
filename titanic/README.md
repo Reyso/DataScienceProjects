@@ -1,5 +1,7 @@
 # Você sobreviveria ao TITANIC?
 
+[Acesse meu Perfil](https://github.com/Reyso/DataScienceProjects)
+
 Este projeto trata-se de uma das mais famosas competições do Kaggle, o [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
 
 A partir dos dados coletados, busquei trabalhar em uma abordagem simples frente ao problema, utilizando `RandomForest` um algorítimo bem consolidado e popular nas competições de DataScience.
