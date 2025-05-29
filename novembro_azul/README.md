@@ -43,3 +43,7 @@ Para comparar o desempenho dos modelos, foram utilizadas as métricas de **acur�
 
 O modelo com melhor desempenho foi a **Decision Tree Classification**, atingindo uma **acurácia de 86,67%**.  
 Apesar disso, os outros modelos também apresentaram resultados satisfatórios, com destaque para o **Random Forest**.
+
+## 📂 Fonte dos Dados
+
+🔗 Dataset utilizado neste projeto: [Kaggle - Prostate Cancer Dataset](https://www.kaggle.com/datasets/sajidsaifi/prostate-cancer)
